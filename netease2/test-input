@@ -1,0 +1,24 @@
+channels 3
+cid name ctype
+1 netease 0
+2 iplay 0
+3 appstore 1
+players 7
+pid name cid
+1 Smith 1
+2 Carter 2
+3 Linda 2
+4 Bush 3
+5 Adam 4
+6 Gates 5
+7 Hill 1
+prepaids 8
+id pid cash
+1 3 1000
+2 4 3000
+3 1 2000
+4 6 1000
+5 7 2000
+6 2 2000
+7 5 6000
+8 3 2000

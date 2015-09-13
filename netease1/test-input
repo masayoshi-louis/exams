@@ -1,0 +1,14 @@
+Fruit{apple{shape,color},orange{taste,price}}
+Fruit
+Fruit{apple{shape,color},orange{taste,price}}
+orange
+Fruit{apple{shape,color},orange{color,price},color}
+color
+Fruit{apple{shape,color},orange{color,price},color}
+Car
+Fruit{apple{shape,color},orange{color,price},color,Fruit{Fruit{},color}}
+Fruit
+Fruit
+Fruit
+Fruit{}
+Fruit
