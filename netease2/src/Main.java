@@ -56,6 +56,7 @@ public class Main {
 		System.gc();
 		List<Result> results = new ArrayList<>(gpByCtype.size());
 		for (Entry<Integer, List<ChannelPrepaid>> gp : gpByCtype.entrySet()) {
+			//TODO use HashSet
 			TreeSet<Integer> distinctPids = new TreeSet<>();
 			int sumCash = 0;
 			for (ChannelPrepaid cp : gp.getValue()) {
